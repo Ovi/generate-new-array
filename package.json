@@ -1,0 +1,39 @@
+{
+  "name": "generate-new-array",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "JavaScript library to generate new array of a given size with optional custom value",
+  "author": {
+    "name": "Muhammad Ovi",
+    "email": "contact@muhammadovi.com",
+    "url": "https://muhammadovi.com"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "homepage": "https://github.com/Ovi/generate-new-array",
+  "bugs": "https://github.com/Ovi/generate-new-array/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ovi/generate-new-array.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "array",
+    "make",
+    "make-array",
+    "create",
+    "create-array",
+    "fill",
+    "fill-array",
+    "generate",
+    "generate-new-array",
+    "generation",
+    "array-generation",
+    "to-array"
+  ]
+}
